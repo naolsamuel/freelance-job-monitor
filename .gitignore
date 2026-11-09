@@ -1,0 +1,6 @@
+# Ignore session files and secrets — never commit these
+*.session
+session.txt
+__pycache__/
+*.pyc
+.env
